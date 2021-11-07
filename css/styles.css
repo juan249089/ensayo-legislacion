@@ -19,7 +19,6 @@ header{
     margin: 0px;
     text-align: center;
     color: rgb(0, 0, 0);
-    padding: 5px;
 }
 h1{
     font-weight: bold;
@@ -57,4 +56,18 @@ footer{
     margin:auto;
     width: 60%;
     height: auto;
+}
+nav{
+    background: #e9e9e9;
+    height: 50%;
+    
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 2%;
+    line-height: 100%;
+    text-decoration: none;
+    color: black;
+    
 }
